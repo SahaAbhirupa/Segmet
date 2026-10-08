@@ -1,4 +1,4 @@
-# SegMet (re-implementation)
+# SegMet
 
 Paper: [SegMet: Inverse Full LH-Surface Design using Classification-Based Segmentation Algorithm](SegMet_Inverse_Full_LH-Surface_Design_Using_Classification-Based_Segmentation_Algorithm.pdf) (A. Saha, CLEO 2025)
 
